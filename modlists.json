@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Ash Lotus",
+    "description": "Ash Lotus is a cinematic, story-driven Fallout 4 modlist built around survival mechanics, immersive faction conflict, and atmospheric realism. Explore a reimagined Commonwealth shaped by darkness, danger, and dynamic storytelling.",
+    "author": "CuongT.Modwork",
+    "maintainers": [
+      "github/CuongMe"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "unofficial",
+      "survival",
+      "faction",
+      "narrative",
+      "visual"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/CuongMe/ashlotus-assets/ashlotus-banner.png",
+      "readme": "https://www.nexusmods.com/fallout4/mods/93620",
+      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_c5c9c58b-b12c-4976-ade4-125ed7158795",
+      "machineURL": "https://ashlotusmodlist.dev/machine", 
+      "discordURL": "https://discord.gg/tbS9VAEchj"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "3VS+mnq9TGo=",
+      "Size": 6645930,
+      "NumberOfArchives": 563,
+      "SizeOfArchives": 107701134209,
+      "NumberOfInstalledFiles": 54535,
+      "SizeOfInstalledFiles": 128120914891
+    },
+    "version": "1.0"
+  }
+]
