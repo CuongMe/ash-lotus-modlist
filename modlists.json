@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/ashlotus-banner.png",
+      "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/93620",
       "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_c5c9c58b-b12c-4976-ade4-125ed7158795",
       "machineURL": "https://ashlotusmodlist.dev/machine", 
