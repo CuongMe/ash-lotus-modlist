@@ -15,7 +15,7 @@
       "narrative",
       "visual"
     ],
-    "nsfw": true,
+    "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
