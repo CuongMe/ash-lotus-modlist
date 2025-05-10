@@ -9,11 +9,15 @@
     ],
     "game": "fallout4",
     "tags": [
-      "unofficial",
+      "cinematic",
       "survival",
-      "faction",
-      "narrative",
-      "visual"
+      "hardcore",
+      "visual-overhaul",
+      "story-driven",
+      "faction-conflict",
+      "immersive",
+      "weather-enhanced",
+      "modlist"
     ],
     "nsfw": false,
     "image_contains_title": true,
@@ -22,20 +26,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
       "readme": "https://github.com/CuongMe/ash-lotus-modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_b4310fb6-3630-4bec-9210-91dfec555a31",
+      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_c65f9e07-8337-45bc-9748-18c77a9f7ba1",
       "machineURL": "https://github.com/CuongMe/ash-lotus-modlist",
       "discordURL": "https://discord.gg/tbS9VAEchj"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "1bS2LMDs1Ms=",
-      "Size": 6798223,
-      "NumberOfArchives": 601,
-      "SizeOfArchives": 108121713652,
-      "NumberOfInstalledFiles": 56123,
-      "SizeOfInstalledFiles": 128670747638,
-      "TotalSize": 236792461290
+    "$type": "DownloadMetadata, Wabbajack.Lib",
+    "Hash": "Xuyx9wDSNgs=",
+    "Size": 6785053,
+    "NumberOfArchives": 600,
+    "SizeOfArchives": 108121545174,
+    "NumberOfInstalledFiles": 56029,
+    "SizeOfInstalledFiles": 128669927833,
+    "TotalSize": 236791473007
     },
-    "version": "1.0"
+    "version": "1.10"
   }
 ]
