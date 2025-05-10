@@ -83,6 +83,7 @@ To install and run Ash Lotus properly, you must have:
 
 - A **clean** and **legal** copy of Fallout 4
 -  **All official DLCs** (Automatron, Far Harbor, Nuka-World, Contraptions, Vault-Tec, Wasteland Workshop)
+❌ DO NOT install the HD Texture Pack DLC
 -  **Fallout 4 updated to the latest Steam version** (currently v1.10.984)
 - A **modding-friendly install path** (avoid Program Files or OneDrive)
 > 💡 **Important:** If you own **Creation Club content**, you should **install all of it**. Some optional patches and features in Ash Lotus support or enhance CC content if detected.
