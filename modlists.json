@@ -9,16 +9,12 @@
     ],
     "game": "fallout4",
     "tags": [
-      "cinematic",
-      "survival",
-      "hardcore",
-      "visual-overhaul",
-      "story-driven",
-      "faction-conflict",
-      "immersive",
-      "weather-enhanced",
-      "modlist"
-    ],
+      "Hardcore",
+      "Survival",
+      "SFW",
+      "Vanilla+",
+      "DLC Required"
+    ]
     "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
@@ -27,7 +23,7 @@
       "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
       "readme": "https://github.com/CuongMe/ash-lotus-modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_c65f9e07-8337-45bc-9748-18c77a9f7ba1",
-      "machineURL": "https://github.com/CuongMe/ash-lotus-modlist",
+      "machineURL": "AshLotus",
       "discordURL": "https://discord.gg/tbS9VAEchj"
     },
     "download_metadata": {
