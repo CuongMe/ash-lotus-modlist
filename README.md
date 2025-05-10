@@ -34,14 +34,15 @@
 
 |                    | **Recommended (Tested by Author)**                                  | **Minimum (Estimated)**                                                  |
 |--------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------|
-| 💾 **RAM**         | 32 GB                                                                | 16 GB (required)                                                          |
+| 💾 **RAM**         | 32 GB                                                                | 32 GB (required)                                                          |
 | 🧠 **CPU**         | Intel Core i9 Ultra 275HX                                            | Intel Core i5 or Ryzen 5 1600                                             |
-| 🎮 **GPU**         | NVIDIA RTX 5070 Ti Laptop GPU (12 GB)                                | GTX 2080 or higher                                                        |
+| 🎮 **GPU**         | NVIDIA RTX 5070 Ti Laptop GPU (12 GB)                                | RTX 3000 series or higher 8GB                                                     |
 | 💽 **Storage**     | SSD with at least 140 GB free space                                  | SSD (HDD will cause stutters)                                            |
 | 🎮 **Performance** | Stable 60 FPS with all visuals enabled (ENB, ReShade, shadows, etc.) | ~30–60 FPS with reduced visuals, ENB off, and lowered shadows            |
 
 **Notes:**
 - This modlist MUST be installed on a SSD.
+- Ram must be 32gb and VRam must be at least 8gb. You could try lowering the stock game setting to lowest but for the hardware i have tested on 8GB vram is barely enough
 - Pagefile must be set at 20-30GB to prevent crashes. 
 
 ## 🎮 Key Gameplay Mods To Be Aware Of
