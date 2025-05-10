@@ -22,19 +22,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/93620",
-      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_200227a4-62ed-491a-b739-0ff34071a132",
+      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_b4310fb6-3630-4bec-9210-91dfec555a31",
       "machineURL": "https://github.com/CuongMe/ash-lotus-modlist",
       "discordURL": "https://discord.gg/tbS9VAEchj"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "xy4AJqziTms=",
-      "Size": 6778801,
-      "NumberOfArchives": 598,
-      "SizeOfArchives": 108105460028,
-      "NumberOfInstalledFiles": 56212,
-      "SizeOfInstalledFiles": 128727445963,
-      "TotalSize": 236832905991
+      "Hash": "1bS2LMDs1Ms=",
+      "Size": 6798223,
+      "NumberOfArchives": 601,
+      "SizeOfArchives": 108121713652,
+      "NumberOfInstalledFiles": 56123,
+      "SizeOfInstalledFiles": 128670747638,
+      "TotalSize": 236792461290
     },
     "version": "1.0"
   }
