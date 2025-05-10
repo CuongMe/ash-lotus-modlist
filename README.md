@@ -138,7 +138,7 @@ You can **still get great visuals** using **NAC X only**:
 
 ## ⚙️ In-Game Settings & MCM Preset
 
-Ash Lotus includes a pre-configured **MCM Settings Manager preset** to streamline your mod experience and avoid tedious setup.
+Ash Lotus includes a pre-configured **MCM Settings Manager preset** to streamline your mod experience and avoid tedious setup. This preset is highly recommended because it helps optimize graphic and gameplay setting.
 
 ### How to Apply MCM Preset
 
@@ -149,6 +149,8 @@ Ash Lotus includes a pre-configured **MCM Settings Manager preset** to streamlin
    > ⚠️ **Important Note:**
 **Do not open the MCM menu before completing your prologue/character creation choices.**  
 Doing so may break animations during the looksmenu sequence and prevent proper setup.
+   
+   > (Optional)Add the line  "sStartingConsoleCommand=cl off" under "General" in your "Fallout4.ini" to disable the annoying fake character light.
 
 ## 💖 Support the Creator
 
