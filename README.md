@@ -120,6 +120,8 @@ Ash Lotus includes a custom **ReShade preset** designed to enhance lighting, col
 If you think your PC can handle more:
 🔗 **Download Reactor ENB Preset:**  
 👉 [Reactor ENB on Nexus Mods](https://www.nexusmods.com/fallout4/mods/57321)
+> 💬 **Note:**
+> Do not combine Reactor and Ash Lotus Reshade preset. Only use Reactor ENB with NACX. Choose between option 1 or 2 not both. The Reshade is highly recommended and was designed specifically for this modlist so that the graphic would be optimally rendered. 
 
 
 ### 🥔 Option 3: No ReShade or ENB (Potato PC Mode) 
