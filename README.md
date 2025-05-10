@@ -154,5 +154,6 @@ If you'd like to show your support, click one of the buttons below:
 
 [![Patreon](https://img.shields.io/badge/Support_on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AshLotusFallout4)
 [![Ko-fi](https://img.shields.io/badge/Buy_Me_a_Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cuongtmodwork)
+[![Discord](https://img.shields.io/badge/Join_Us_on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tbS9VAEchj)
 
 Every bit of support goes toward making Ash Lotus even better. Thank you!
