@@ -115,7 +115,7 @@ Ash Lotus includes a custom **ReShade preset** designed to enhance lighting, col
 2. Select `Fallout4.exe` and choose **DirectX 10/11/12** during setup.
 3. Install all effects. 
 4. Download and extract the **Ash Lotus ReShade `.ini` file** into your Fallout 4 directory.
-5. Launch the game → press `Home` → select `AshLotus.ini` from the dropdown.
+5. Launch the game → press `Home` → select `Ash_Lotus_Reshade.ini` from the dropdown.
 
 ### 🧨 Option 2: Reactor ENB (Ultra Visuals)
 If you think your PC can handle more:
