@@ -4,6 +4,20 @@
 
 ![Ash Lotus Banner](https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png)
 
+## 📖 Table of Contents
+
+- [📌 Modlist Details](#-modlist-details)
+- [🖥️ Hardware Requirements](#️-hardware-requirements)
+- [🎮 Key Gameplay Mods To Be Aware Of](#-key-gameplay-mods-to-be-aware-of)
+  - [🏛️ Major Quest & Narrative Mods](#-major-quest--narrative-mods)
+- [🛠 Requirements](#-requirements)
+- [📦 Installation via Wabbajack](#-installation-via-wabbajack)
+- [🎨 ReShade & Visual Presets (Extremely Recommended)](#-reshade--visual-presets-extremely-recommended)
+  - [✅ How to Install ReShade + Preset](#️-how-to-install)
+  - [🧨 Option 2: Reactor ENB (Ultra Visuals)](#-option-2-reactor-enb-ultra-visuals)
+  - [🥔 Option 3: No ReShade or ENB (Potato PC Mode)](#-option-3-no-reshade-or-enb-potato-pc-mode)
+- [⚙️ In-Game Settings & MCM Preset](#️-in-game-settings--mcm-preset)
+
 ---
 
 ## 📌 Modlist Details
@@ -108,7 +122,8 @@ If you think your PC can handle more:
 👉 [Reactor ENB on Nexus Mods](https://www.nexusmods.com/fallout4/mods/57321)
 
 
-### 🥔 Option 3: No ReShade or ENB (Potato PC Mode) !!!!If your system struggles with ReShade
+### 🥔 Option 3: No ReShade or ENB (Potato PC Mode) 
+!!!!If your system struggles with ReShade
 
 You can **still get great visuals** using **NAC X only**:
 
@@ -131,3 +146,13 @@ Ash Lotus includes a pre-configured **MCM Settings Manager preset** to streamlin
    > ⚠️ **Important Note:**
 **Do not open the MCM menu before completing your prologue/character creation choices.**  
 Doing so may break animations during the looksmenu sequence and prevent proper setup.
+
+## 💖 Support the Creator
+
+Ash Lotus is a one-man modlist crafted with countless hours of testing, balancing, and visual storytelling.  
+If you'd like to show your support, click one of the buttons below:
+
+[![Patreon](https://img.shields.io/badge/Support_on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AshLotusFallout4)
+[![Ko-fi](https://img.shields.io/badge/Buy_Me_a_Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cuongtmodwork)
+
+Every bit of support goes toward making Ash Lotus even better. Thank you!
