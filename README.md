@@ -25,7 +25,7 @@
 - Total Mods: ~600
 - Download Size: ~108 GB
 - Installed Size: ~128 GB
-- Version: `1.0`
+- Version: `1.10`
 - Maintainer: [@CuongMe](https://github.com/CuongMe)
 
 ---
@@ -105,6 +105,7 @@ Ash Lotus can be installed easily through **[Wabbajack](https://www.wabbajack.or
 
 > 💬 **Note:**  
 > Ash Lotus is currently listed as an **Unofficial Modlist**. Pending review, it may be featured in the official Wabbajack UI in the future.
+> At the moment it does not compile a Stock Game folder so you need to have a legal version through Steam. This wabbajack installation makes no changes to the Fallout 4 main folder
 
 ## 🎨 ReShade & Visual Presets (Extremely Recommended)
 Ash Lotus includes a custom **ReShade preset** designed to enhance lighting, color grading, and post-processing for a more immersive cinematic experience.
