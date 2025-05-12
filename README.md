@@ -25,7 +25,7 @@
 - Total Mods: ~600
 - Download Size: ~108 GB
 - Installed Size: ~128 GB
-- Version: `1.10`
+- Version: `1.2.0`
 - Maintainer: [@CuongMe](https://github.com/CuongMe)
 
 ---
