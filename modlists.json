@@ -1,41 +1,41 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "Ash Lotus",
-        "description": "Ash Lotus is a cinematic, story-driven Fallout 4 modlist built around gameplay enhancement, immersive faction conflict, and atmospheric realism. Explore a reimagined Commonwealth shaped by darkness, danger, and dynamic storytelling.",
-        "author": "CuongT.Modwork",
-        "maintainers": [
-            "github/CuongMe"
-        ],
-        "game": "fallout4",
-        "tags": [
-            "Hardcore",
-            "Survival",
-            "SFW",
-            "Vanilla+",
-            "DLC Required"
-        ],
-        "nsfw": false,
-        "image_contains_title": true,
-        "force_down": false,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
-            "readme": "https://github.com/CuongMe/ash-lotus-modlist/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.2.wabbajack_24b70ece-dd95-4448-a59f-514140660b41",
-            "machineURL": "AshLotus",
-            "discordURL": "https://discord.gg/tbS9VAEchj"
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "hLpXP7NZ2GU=",
-            "Size": 6894995,
-            "NumberOfArchives": 635,
-            "SizeOfArchives": 110548492727,
-            "NumberOfInstalledFiles": 56423,
-            "SizeOfInstalledFiles": 132062040213,
-            "TotalSize": 242610532940
-        },
-        "version": "1.2.0"
-    }
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Ash Lotus",
+    "description": "Ash Lotus is a cinematic, story-driven Fallout 4 modlist built around gameplay enhancement, immersive faction conflict, and atmospheric realism. Explore a reimagined Commonwealth shaped by darkness, danger, and dynamic storytelling.",
+    "author": "CuongT.Modwork",
+    "maintainers": [
+      "github/CuongMe"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Hardcore",
+      "Survival",
+      "SFW",
+      "Vanilla+",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
+      "readme": "https://github.com/CuongMe/ash-lotus-modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.0.wabbajack_0d57694a-d7d8-4eb3-9b3a-1d1e3ae3c06f",
+      "machineURL": "AshLotus",
+      "discordURL": "https://discord.gg/tbS9VAEchj"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "76rd1HZEP0s=",
+      "Size": 6740868,
+      "NumberOfArchives": 615,
+      "SizeOfArchives": 112637757157,
+      "NumberOfInstalledFiles": 54137,
+      "SizeOfInstalledFiles": 133109332725,
+      "TotalSize": 245747089882
+    },
+    "version": "1.2.0"
+  }
 ]
