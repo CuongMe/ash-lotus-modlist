@@ -22,19 +22,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
       "readme": "https://github.com/CuongMe/ash-lotus-modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.2.1.Update.wabbajack_d79ac4c3-752a-4d0b-ac67-5d5a0240a252",
+      "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.2.1.Fix.wabbajack_9c488f0e-b297-41e9-964e-259095e9871c",
       "machineURL": "AshLotus",
       "discordURL": "https://discord.gg/tbS9VAEchj"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SQtA3u7/Mlo=",
-      "Size": 6745982,
-      "NumberOfArchives": 617,
-      "SizeOfArchives": 111666735343,
-      "NumberOfInstalledFiles": 54189,
-      "SizeOfInstalledFiles": 132223951071,
-      "TotalSize": 243890686414
+      "Hash": "zKBgz99NY10=",
+      "Size": 6744467,
+      "NumberOfArchives": 616,
+      "SizeOfArchives": 111660863041,
+      "NumberOfInstalledFiles": 54187,
+      "SizeOfInstalledFiles": 132223598446,
+      "TotalSize": 243884461487
     },
     "version": "1.2.1"
   }
