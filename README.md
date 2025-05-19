@@ -9,13 +9,13 @@
 - [📌 Modlist Details](#-modlist-details)
 - [🖥️ Hardware Requirements](#️-hardware-requirements)
 - [🎮 Key Gameplay Mods To Be Aware Of](#-key-gameplay-mods-to-be-aware-of)
-  - [🏛️ Major Quest & Narrative Mods](#-major-quest--narrative-mods)
+- [🏛️ Major Quest & Narrative Mods](#-major-quest--narrative-mods)
 - [🛠 Requirements](#-requirements)
 - [📦 Installation via Wabbajack](#-installation-via-wabbajack)
 - [🎨 ReShade & Visual Presets (Extremely Recommended)](#-reshade--visual-presets-extremely-recommended)
-  - [✅ How to Install ReShade + Preset](#️-how-to-install)
-  - [🧨 Option 2: Reactor ENB (Ultra Visuals)](#-option-2-reactor-enb-ultra-visuals)
-  - [🥔 Option 3: No ReShade or ENB (Potato PC Mode)](#-option-3-no-reshade-or-enb-potato-pc-mode)
+- [✅ How to Install ReShade + Preset](#️-how-to-install)
+- [🧨 Option 2: Reactor ENB (Ultra Visuals)](#-option-2-reactor-enb-ultra-visuals)
+- [🥔 Option 3: No ReShade or ENB (Potato PC Mode)](#-option-3-no-reshade-or-enb-potato-pc-mode)
 - [⚙️ In-Game Settings & MCM Preset](#️-in-game-settings--mcm-preset)
 
 ---
@@ -25,7 +25,7 @@
 - Total Mods: ~600
 - Download Size: ~108 GB
 - Installed Size: ~128 GB
-- Version: `1.2.0`
+- Version: `1.2.2`
 - Maintainer: [@CuongMe](https://github.com/CuongMe)
 
 ---
@@ -105,7 +105,11 @@ Ash Lotus can be installed easily through **[Wabbajack](https://www.wabbajack.or
 
 > 💬 **Note:**  
 > Ash Lotus is currently listed as an **Unofficial Modlist**. Pending review, it may be featured in the official Wabbajack UI in the future.
-> At the moment it does not compile a Stock Game folder so you need to have a legal version through Steam. This wabbajack installation makes no changes to the Fallout 4 main folder
+
+## Reuquired
+- ✅ **Install Root Builder**  
+  1. Download **Root Builder** from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/ROOT_BUILDER_ID).  
+  2. Copy the entire `RootBuilder` folder into your `ModOrganizer/plugins` directory.  
 
 ## 🎨 ReShade & Visual Presets (Extremely Recommended)
 Ash Lotus includes a custom **ReShade preset** designed to enhance lighting, color grading, and post-processing for a more immersive cinematic experience.
@@ -118,26 +122,8 @@ Ash Lotus includes a custom **ReShade preset** designed to enhance lighting, col
 3. Install all effects. 
 4. Download and extract the **Ash Lotus ReShade `.ini` file** into your Fallout 4 directory.
 5. Launch the game → press `Home` → select `Ash_Lotus_Reshade.ini` from the dropdown.
+> 💬 **Note:** For the latest version you only need to install Reshade. The Ash Lotus reshade presets has already been built in using Root Builder 
 
-### 🧨 Option 2: Reactor ENB (Ultra Visuals, Not Recommended)
-If you think your PC can handle more:
-🔗 **Download Reactor ENB Preset:**  
-👉 [Reactor ENB on Nexus Mods](https://www.nexusmods.com/fallout4/mods/57321)
-> 💬 **Note:**
-> Do not combine Reactor and Ash Lotus Reshade preset. Only use Reactor ENB with NACX. Choose between option 1 or 2 not both. The Reshade is highly recommended and was designed specifically for this modlist so that the graphic would be optimally rendered without ENB. 
-
-
-### 🥔 Option 3: No ReShade or ENB (Potato PC Mode) 
-!!!!If your system struggles with ReShade
-
-You can **still get great visuals** using **NAC X only**:
-
-- Go to the NAC X in-game menu
-- Tweak brightness, godrays, and ambient settings
-- Disable heavy weather or fog effects for better performance
-- Also Run the game with low to medium Presets in ini files (Fallout 4 launcher setting)
-
-> 💡 NAC X is modular and can look amazing even without ReShade or ENB.
 
 ## ⚙️ In-Game Settings & MCM Preset
 
