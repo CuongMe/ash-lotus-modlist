@@ -25,7 +25,7 @@
 - Total Mods: ~600
 - Download Size: ~108 GB
 - Installed Size: ~128 GB
-- Version: `1.2.2`
+- Version: `1.2.3`
 - Maintainer: [@CuongMe](https://github.com/CuongMe)
 
 ---
@@ -106,7 +106,7 @@ Ash Lotus can be installed easily through **[Wabbajack](https://www.wabbajack.or
 > 💬 **Note:**  
 > Ash Lotus is currently listed as an **Unofficial Modlist**. Pending review, it may be featured in the official Wabbajack UI in the future.
 
-## Reuquired
+## Required (If Root Builder is not installed)
 - ✅ **Install Root Builder**  
   1. Download **Root Builder** from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/ROOT_BUILDER_ID).  
   2. Copy the entire `RootBuilder` folder into your `ModOrganizer/plugins` directory.  
