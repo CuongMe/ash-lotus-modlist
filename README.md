@@ -25,7 +25,7 @@
 - Total Mods: ~600
 - Download Size: ~108 GB
 - Installed Size: ~128 GB
-- Version: `1.2.3`
+- Version: `1.2.4`
 - Maintainer: [@CuongMe](https://github.com/CuongMe)
 
 ---
@@ -43,7 +43,8 @@
 **Notes:**
 - This modlist MUST be installed on a SSD.
 - Ram must be 32gb and VRam must be at least 8gb. You could try lowering the stock game setting to lowest but for the hardware i have tested on 8GB vram is barely enough
-- Pagefile must be set at 20-30GB to prevent crashes. 
+- Pagefile must be set at 20-30GB to prevent crashes.
+- Recommend you all to run from Fallout 4 high presets or lower, you can set the preset through fallout 4 stock game launcher, bethINI or through MO2 ini editor. 
 
 ## 🎮 Key Gameplay Mods To Be Aware Of
 
@@ -111,6 +112,14 @@ Ash Lotus can be installed easily through **[Wabbajack](https://www.wabbajack.or
   1. Download **Root Builder** from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/ROOT_BUILDER_ID).  
   2. Copy the entire `RootBuilder` folder into your `ModOrganizer/plugins` directory.  
 
+## Use Plugin Sync
+
+- Use **Plugin Sync** to sync the load order of the modlist.  
+- The load order has already been arranged in the list.  
+- **Do not use LOOT** to sort your load order.  
+
+🔗 [Download Plugin Sync](https://www.nexusmods.com/skyrimspecialedition/mods/47325)
+  
 ## 🎨 ReShade & Visual Presets (Extremely Recommended)
 Ash Lotus includes a custom **ReShade preset** designed to enhance lighting, color grading, and post-processing for a more immersive cinematic experience.
 🔗 **Download the Ash Lotus ReShade Preset here:**  
