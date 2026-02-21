@@ -1,4 +1,4 @@
-# 🌸 Ash Lotus - Fallout 4 Modlist
+# 🌸 Ash Lotus - Fallout 4 Modlist (Depracated)
 
 **Ash Lotus** is a cinematic, story-driven Fallout 4 modlist built around survival mechanics, immersive faction conflict, and atmospheric realism. Explore a reimagined Commonwealth shaped by darkness, danger, and dynamic storytelling.
 
